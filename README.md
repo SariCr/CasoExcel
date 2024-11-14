@@ -7,8 +7,9 @@ A continuación se muestran **tendencia de ingresos por mes, transacciones por c
 
 ## Tendencia de ingresos por mes y Transacciones por categoría
 
-![image](https://github.com/user-attachments/assets/3a75af83-481c-41fc-ac65-c5bf6eaf497b)
-![image](https://github.com/user-attachments/assets/17796e4a-03c5-4348-8beb-6aedc8c06d36)
+![image](https://github.com/user-attachments/assets/d6398787-1e65-4c33-9934-ff98b9ffd526)
+![image](https://github.com/user-attachments/assets/f5bdaecb-908d-49d2-be96-94add0f255b8)
+
 
 ## Highlights
 
